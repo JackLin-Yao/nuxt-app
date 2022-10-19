@@ -85,7 +85,7 @@
             <dd>
               <a href="#">
                 <img
-                  src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
+                  src="https://s3plus.meituan.net/static-prod01/com.sankuai.fe.www.web-files/62588ab/img/appicons/meituan.png"
                   title="美团app"
                   alt="美团app">
               </a>
@@ -93,7 +93,7 @@
             <dd>
               <a href="#">
                 <img
-                  src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
+                  src="https://s3plus.meituan.net/static-prod01/com.sankuai.fe.www.web-files/62588ab/img/appicons/meituan.png"
                   title="美团app"
                   alt="美团app">
               </a>
@@ -101,7 +101,7 @@
             <dd>
               <a href="#">
                 <img
-                  src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
+                  src="https://s3plus.meituan.net/static-prod01/com.sankuai.fe.www.web-files/62588ab/img/appicons/meituan.png"
                   title="美团app"
                   alt="美团app">
               </a>
@@ -109,7 +109,7 @@
             <dd>
               <a href="#">
                 <img
-                  src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
+                  src="https://s3plus.meituan.net/static-prod01/com.sankuai.fe.www.web-files/62588ab/img/appicons/meituan.png"
                   title="美团app"
                   alt="美团app">
               </a>
@@ -117,7 +117,7 @@
             <dd>
               <a href="#">
                 <img
-                  src="//s0.meituan.net/bs/fe-web-meituan/e5eeaef/img/appicons/meituan.png"
+                  src="https://s3plus.meituan.net/static-prod01/com.sankuai.fe.www.web-files/62588ab/img/appicons/meituan.png"
                   title="美团app"
                   alt="美团app">
               </a>
